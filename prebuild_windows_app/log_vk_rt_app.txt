@@ -1,0 +1,83 @@
+_______________
+Vulkan Version:
+ - available:  1.2.189
+ - requesting: 1.2.0
+______________________
+Used Instance Layers :
+VK_LAYER_LUNARG_monitor
+
+Used Instance Extensions :
+VK_KHR_surface
+VK_EXT_debug_utils
+VK_KHR_win32_surface
+VK_KHR_get_physical_device_properties2
+____________________
+Compatible Devices :
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+0: NVIDIA GeForce RTX 2060
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+Could NOT locate mandatory extension 'VK_KHR_pipeline_library'
+Skipping physical device Intel(R) UHD Graphics 630
+Physical devices found : 1
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+________________________
+Used Device Extensions :
+VK_KHR_swapchain
+VK_KHR_dedicated_allocation
+VK_KHR_get_memory_requirements2
+VK_KHR_maintenance3
+VK_KHR_pipeline_library
+VK_KHR_deferred_host_operations
+VK_KHR_buffer_device_address
+VK_KHR_acceleration_structure
+VK_KHR_ray_tracing_pipeline
+
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+INFO: Loader Message 
+ --> loader_add_implicit_layer: Disabling implicit layer VK_LAYER_RTSS for using an old API version 1.1 versus application requested 1.2
+INFO: Loader Message 
+ --> Loading layer library C:\VulkanSDK\1.2.198.1\Bin\.\VkLayer_monitor.dll
+INFO: Loader Message 
+ --> Inserted device layer VK_LAYER_LUNARG_monitor (C:\VulkanSDK\1.2.198.1\Bin\.\VkLayer_monitor.dll)
+INFO: Loader Message 
+ --> Loading layer library C:\WINDOWS\System32\DriverStore\FileRepository\nvmii.inf_amd64_b43217aab37e3e24\.\nvoglv64.dll
+INFO: Loader Message 
+ --> Inserted device layer VK_LAYER_NV_optimus (C:\WINDOWS\System32\DriverStore\FileRepository\nvmii.inf_amd64_b43217aab37e3e24\.\nvoglv64.dll)
+Loading File:  media/scenes/mirror_box.obj 
+Loading File:  media/scenes/mirror_box.obj 
+Loading File:  media/scenes/sphere_pbr.obj 
+Loading File:  media/scenes/box_pbr.obj 
+Loading File:  media/scenes/sphere.obj 
+Loading File:  media/scenes/lucy.obj 
+lucy has mirror material 
+Loading File:  media/scenes/sponza.obj 
+Requested size (1920, 1017); created size (1920, 1017); INFO: Loader Message 
+ --> Unloading layer library C:\WINDOWS\System32\DriverStore\FileRepository\nvmii.inf_amd64_b43217aab37e3e24\.\nvoglv64.dll
+INFO: Loader Message 
+ --> Unloading layer library C:\VulkanSDK\1.2.198.1\Bin\.\VkLayer_monitor.dll
