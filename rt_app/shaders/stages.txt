@@ -1,0 +1,16 @@
+raster {
+    spv/vert_shader.vert.spv
+    spv/frag_shader.frag.spv
+}
+
+rt {
+    spv/raytrace.rgen.spv
+    spv/raytrace.rmiss.spv
+    spv/raytraceShadow.rmiss.spv
+    spv/raytrace.rchit.spv
+}
+
+post {
+    spv/passthrough.vert.spv
+    spv/post.frag.spv
+}

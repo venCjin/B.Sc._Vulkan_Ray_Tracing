@@ -1,0 +1,38 @@
+# Blender MTL File: 'BCY_JA02_AcerNikoense_8.blend'
+# Material Count: 3
+
+newmtl Bark01_SHD
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump tree/JA02_Bark01_nml_su.png
+map_Kd tree/JA02_Bark01_dif_su.png
+
+newmtl Leaf02_au_SHD
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tree/leaf1.png
+
+newmtl Leaf03_au_SHD
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tree/leaf1.png
+
+# wymaga poprawy
